@@ -8,4 +8,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # jeremyhua1931/ubantu20.04:v2
 # nvidia/cuda:11.8.0-runtime-ubuntu20.04
-pytorch:1.6.0-cuda10.1-cudnn7-devel
+pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
