@@ -48,6 +48,7 @@ ALIYUN_NAME_SPACE,ALIYUN_REGISTRY_USER，ALIYUN_REGISTRY_PASSWORD，ALIYUN_REGIS
 文件提交后，自动进入Github Action构建
 
 ### 使用镜像
+**找不到实例仓库记得修改节点地址**
 回到阿里云，镜像仓库，点击任意镜像，可查看镜像状态。(可以改成公开，拉取镜像免登录)
 ![](doc/开始使用.png)
 
